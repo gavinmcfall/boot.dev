@@ -1,16 +1,16 @@
 # boot.dev Learning Journey
 
-Welcome to my learning repository! This repo documents my journey learning programming through [boot.dev](https://www.boot.dev/), an online platform focused on backend development education.
+Welcome! I'm a brand new developer just starting my programming journey with [boot.dev](https://www.boot.dev/), an online platform focused on backend development education.
 
 ## About This Repository
 
-This repository contains code, exercises, and projects I've completed while learning programming fundamentals and backend development through boot.dev's curriculum.
+This repository will contain code, exercises, and projects as I learn programming fundamentals and backend development through boot.dev's curriculum. I'm documenting my progress as I go!
 
-## Languages Learned
+## Languages I'm Learning
 
 ### Python
 
-Python is where my programming journey began. Through boot.dev's Python courses, I've learned:
+Python is my first programming language! I'm excited to learn:
 
 - Core Python syntax and fundamentals
 - Data structures and algorithms
@@ -20,7 +20,7 @@ Python is where my programming journey began. Through boot.dev's Python courses,
 
 ### Go
 
-Go (Golang) is the second language I've learned, expanding my backend development skills. Topics covered include:
+Go (Golang) will be the next language on my learning path. Topics I'll be covering include:
 
 - Go syntax and conventions
 - Concurrency with goroutines and channels
@@ -30,7 +30,7 @@ Go (Golang) is the second language I've learned, expanding my backend developmen
 
 ## Course Progress
 
-This repository will grow as I continue through the boot.dev curriculum, adding new projects and exercises along the way.
+🚀 Just getting started! This repository will grow as I work through the boot.dev curriculum, adding new projects and exercises along the way.
 
 ## Getting Started
 
