@@ -2,6 +2,12 @@
 
 Welcome! I'm a brand new developer just starting my programming journey with [boot.dev](https://www.boot.dev/), an online platform focused on backend development education.
 
+## About Me
+
+I'm a Technical Team Leader for a SaaS company with a career background in QA. In my free time, I've been learning Docker and Kubernetes. If you're interested in that work, check out my [home-ops](https://github.com/gavinmcfall/home-ops) repo!
+
+Now I'm taking the next step and diving into programming with Python and Go through boot.dev.
+
 ## About This Repository
 
 This repository will contain code, exercises, and projects as I learn programming fundamentals and backend development through boot.dev's curriculum. I'm documenting my progress as I go!
